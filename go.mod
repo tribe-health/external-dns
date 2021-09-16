@@ -31,7 +31,7 @@ require (
 	github.com/golang/sync v0.0.0-20180314180146-1d60e4601c6f
 	github.com/google/go-cmp v0.5.6
 	github.com/gophercloud/gophercloud v0.1.0
-	github.com/hooklift/gowsdl v0.4.0
+	github.com/hooklift/gowsdl v0.5.0
 	github.com/infobloxopen/infoblox-go-client v1.1.1
 	github.com/linki/instrumented_http v0.2.0
 	github.com/linode/linodego v0.19.0
